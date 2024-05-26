@@ -1,2 +1,4 @@
-result
-test.c
+*
+!.gitignore
+!.vscode/
+!README.md
